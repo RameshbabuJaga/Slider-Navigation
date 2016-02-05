@@ -1,6 +1,7 @@
-# Slider-Navigation
-Sliding navigation like view pager.
+## Slider Navigation  
+ 
+ 1. Slide to Navigate to next page using slider Navigation **Sliding to next view**
 
-Screen shot link for more reference,
-link 1 [https://cloud.githubusercontent.com/assets/11292624/12845058/43dba7d4-cc29-11e5-83fe-487038fb961f.png)
-link 2 [https://cloud.githubusercontent.com/assets/11292624/12845061/45cee998-cc29-11e5-9a4d-3d80b895fc7c.png]
+<a href="http://gfycat.com/WeeGrizzledFruitbat">
+![2014-10-22 11_35_09](https://cloud.githubusercontent.com/assets/11292624/12846645/b5b519f8-cc33-11e5-905b-e2f7725f0e8d.gif)
+</a>
